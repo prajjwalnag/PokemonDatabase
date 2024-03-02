@@ -17,7 +17,7 @@ This project demonstrates the optimization of a Pokémon dataset stored in a SQL
 
 Clone the repository to your local machine:
 
-```bash
+
 git clone https://github.com/<your-username>/PokemonDBOptimization.git
 cd PokemonDBOptimization
 
